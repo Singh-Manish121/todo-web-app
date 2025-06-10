@@ -1,6 +1,6 @@
 # To start React app
 
-Go to frontend & run command
+Go to todo directory & run command
 ### `npm start`
 
 Runs the app in the development mode.\
